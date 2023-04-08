@@ -8,6 +8,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
+gems:
+  - jekyll-asciidoc
 asciidoc: {}
 asciidoctor:
   base_dir: :docdir
